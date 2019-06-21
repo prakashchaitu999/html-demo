@@ -1,0 +1,19 @@
+body {
+    border: 1px solid black;
+    width: 1000px;
+    margin-bottom: 40px;
+}
+    
+label {
+    display: block;
+    padding-start: 10%;
+    cursor: pointer;
+    padding-bottom: 8px;
+}
+form p {
+    margin-bottom: none;
+}
+textarea{
+    width: 500px;
+    height: 400px;
+}
